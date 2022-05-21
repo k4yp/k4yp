@@ -1,5 +1,5 @@
 <h3 align="center"><samp>most used languages<samp></h3>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keyp0s&layout=compact&theme=dark&bg_color=0D1117&hide_border=true&border_radius=0&hide_title=true&card_width=400" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keyp0s&layout=compact&theme=dark&bg_color=0D1117&hide_border=true&border_radius=0&hide_title=true" /></p>
 
 <p align="center"><a href="https://krypos.me"><img width="400px" src="https://media0.giphy.com/media/EfPXGnbJwFC0g/giphy.gif" /></a></p>
 <h3 align="center"><samp>technologies i work with</samp></h3>
