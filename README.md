@@ -1,8 +1,6 @@
 <h4 align="center"><samp>"the singularity is inevitable"</samp></h4>
 
-<p align="center">
-  <a href="https://keyp0s.me"><img width="450px" src="https://media0.giphy.com/media/EfPXGnbJwFC0g/giphy.gif" />
-  </a></p>
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" src="https://media0.giphy.com/media/EfPXGnbJwFC0g/giphy.gif" /></a></p>
 
 <p align="center"><samp>technologies i work with</samp></p>
 
