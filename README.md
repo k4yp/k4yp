@@ -1,7 +1,7 @@
 <h4 align="center"><samp>"the singularity is inevitable"</samp></h4>
 
 <p align="center">
-  <img width="400px" src="https://media0.giphy.com/media/HnMDB4uv2lB9Fby2vO/giphy.gif?">
+  <img width="350px" src="https://media0.giphy.com/media/HnMDB4uv2lB9Fby2vO/giphy.gif?">
 </p>
 
 <p align="center"><samp>technologies i work with</samp></p>
