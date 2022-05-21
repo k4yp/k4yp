@@ -1,7 +1,7 @@
-<h4 align="center"><samp>"the singularity is inevitable"</samp></h4>
+<h4 align="center"><samp>"keyp0s"</samp></h4>
 
 <p align="center">
-  <img width="350px" src="https://media0.giphy.com/media/HnMDB4uv2lB9Fby2vO/giphy.gif?">
+  <a href="google.com"><img width="350px" src="https://media0.giphy.com/media/EfPXGnbJwFC0g/giphy.gif"></a>
 </p>
 
 <p align="center"><samp>technologies i work with</samp></p>
