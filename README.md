@@ -1,8 +1,8 @@
-<h4 align="center"><samp>most used languages<samp></h4>
+<h3 align="center"><samp>most used languages<samp></h3>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keyp0s&layout=compact&theme=dark&bg_color=0D1117&hide_border=true&border_radius=0&hide_title=true&card_width=400" /></p>
 
 <p align="center"><a href="https://krypos.me"><img width="400px" src="https://media0.giphy.com/media/EfPXGnbJwFC0g/giphy.gif" /></a></p>
-<p align="center"><samp>technologies i work with</samp></p>
+<h3 align="center"><samp>technologies i work with</samp></h3>
 <p align="center">
 <img alt="python" src="https://img.shields.io/badge/python-0D1117?logo=python&logoColor=blue&style=flat-square">
 <img alt="tensorflow" src="https://img.shields.io/badge/tensorflow-0D1117?logo=tensorflow&logoColor=FF86001&style=flat-square">
@@ -16,4 +16,4 @@
 <img alt="mysql" src="https://img.shields.io/badge/mysql-0D1117?logo=mysql&logoColor=E48E00&style=flat-square">
 </p>
 
-<p align="center"><samp>my stuff ↓</samp></p>
+<h4 align="center"><samp>my stuff ↓</samp></h4>
