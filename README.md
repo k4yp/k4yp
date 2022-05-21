@@ -1,9 +1,9 @@
 <h4 align="center"><samp>"the singularity is inevitable"</samp></h4>
 
 <p align="center">
-  <img width="400px" src="https://media2.giphy.com/media/3oz8xydgKB8aH1fpok/giphy.gif">
+  <img width="500px" src="https://media0.giphy.com/media/HnMDB4uv2lB9Fby2vO/giphy.gif?">
 </p>
 <p align="center"><samp>
-my stuff ⬇️  
+my stuff ↓  
   </samp>
 </p>
