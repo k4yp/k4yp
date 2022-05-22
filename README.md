@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://media4.giphy.com/media/RQ8vM7tsD6Csw/giphy.gif" alt="sphere" width="350vw"/>
+<img src="https://media3.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="sphere" width="350vw"/>
 </p>
 
 <h4 align="center">technologies i work with</h4>
