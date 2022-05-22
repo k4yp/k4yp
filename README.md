@@ -1,7 +1,3 @@
-<p align="center">
-<img src="https://media3.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="sphere" width="350vw"/>
-</p>
-
 <h4 align="center">technologies i work with</h4>
 <p align="center">
 <img alt="python" src="https://img.shields.io/badge/python-0D1117?logo=python&logoColor=blue&style=flat-square">
