@@ -2,7 +2,7 @@
 <img src="https://media4.giphy.com/media/RQ8vM7tsD6Csw/giphy.gif" alt="sphere" width="350vw"/>
 </p>
 
-<h3 align="center"><samp>technologies i work with</samp></h3>
+<h4 align="center">technologies i work with</h4>
 <p align="center">
 <img alt="python" src="https://img.shields.io/badge/python-0D1117?logo=python&logoColor=blue&style=flat-square">
 <img alt="tensorflow" src="https://img.shields.io/badge/tensorflow-0D1117?logo=tensorflow&logoColor=FF86001&style=flat-square">
@@ -18,7 +18,7 @@
 <img alt="latex" src="https://img.shields.io/badge/latex-0D1117?logo=latex&logoColor=008181&style=flat-square">
 <img alt="mysql" src="https://img.shields.io/badge/mysql-0D1117?logo=mysql&logoColor=E48E00&style=flat-square">
 </p>
-<h3 align="center"><samp>most used languages<samp></h3>
+<h4 align="center">most used languages</h4>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keyp0s&layout=compact&theme=dark&bg_color=0D1117&hide_border=true&border_radius=0&hide_title=true" /></p>
 
-<h4 align="center"><samp>my stuff ↓</samp></h4>
+<h4 align="center">my stuff ↓</h4>
