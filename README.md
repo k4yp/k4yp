@@ -15,6 +15,6 @@
 <img alt="mysql" src="https://img.shields.io/badge/mysql-0D1117?logo=mysql&logoColor=E48E00&style=flat-square">
 </p>
 <h4 align="center">most used languages</h4>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keyp0s&layout=compact&theme=dark&bg_color=0D1117&hide_border=true&border_radius=0&hide_title=true" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keyp0s&layout=compact&theme=dark&bg_color=0D1117&hide_border=true&border_radius=0&hide_title=true&hide=css,html,procfile" /></p>
 
 <h4 align="center">my stuff ↓</h4>
