@@ -5,7 +5,6 @@
 <img alt="pytorch" src="https://img.shields.io/badge/pytorch-0D1117?logo=pytorch&logoColor=EE4C2C&style=flat-square">
 <img alt="keras" src="https://img.shields.io/badge/keras-0D1117?logo=keras&logoColor=C90000&style=flat-square">
 <img alt="rust" src="https://img.shields.io/badge/rust-0D1117?logo=rust&logoColor=F74C00&style=flat-square">
-
 </p>
 <p align="center">
 <img alt="git" src="https://img.shields.io/badge/git-0D1117?logo=git&logoColor=E84E31&style=flat-square">
