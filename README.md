@@ -20,7 +20,6 @@
 <p align="center">
 <a href="https://codeforces.com/profile/keypos"><img alt="codeforces" src="https://img.shields.io/badge/codeforces-0D1117?logo=codeforces&logoColor=B41D22&style=flat-square"></a>
 <a href="https://www.kaggle.com/keypos"><img alt="kaggle" src="https://img.shields.io/badge/kaggle-0D1117?logo=kaggle&logoColor=20BEFF&style=flat-square"></a>
-<a href="https://www.codechef.com/users/keypos"><img alt="codechef" src="https://img.shields.io/badge/codechef-0D1117?logo=codechef&logoColor=F8F3DE&style=flat-square"></a>
 <a href="https://leetcode.com/keypos/"><img alt="leetcode" src="https://img.shields.io/badge/leetcode-0D1117?logo=leetcode&logoColor=F79C15&style=flat-square"></a>
 </p>
 
