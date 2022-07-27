@@ -11,7 +11,7 @@
 <img alt="jupyter" src="https://img.shields.io/badge/jupyter-0D1117?logo=jupyter&logoColor=F37821&style=flat-square">
 <img alt="mongodb" src="https://img.shields.io/badge/mongodb-0D1117?logo=mongodb&logoColor=10AA50&style=flat-square">
 <img alt="latex" src="https://img.shields.io/badge/latex-0D1117?logo=latex&logoColor=008181&style=flat-square">
-<img alt="mysql" src="https://img.shields.io/badge/mysql-0D1117?logo=mysql&logoColor=E48E00&style=flat-square">
+<img alt="mysql" src="https://img.shields.io/badge/c++-0D1117?logo=c%2B%2B&logoColor=2b7cba&style=flat-square">
 </p>
 <h4 align="center">top langs</h4>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keyp0s&layout=compact&theme=dark&bg_color=0D1117&hide_border=true&border_radius=0&hide_title=true&hide=css,html,procfile" /></p>
