@@ -14,7 +14,7 @@
 <img alt="mysql" src="https://img.shields.io/badge/c++-0D1117?logo=c%2B%2B&logoColor=2b7cba&style=flat-square">
 </p>
 <h4 align="center">top langs</h4>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keyp0s&layout=compact&theme=dark&bg_color=0D1117&hide_border=true&border_radius=0&hide_title=true&hide=css,html,procfile" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k4yp&layout=compact&theme=dark&bg_color=0D1117&hide_border=true&border_radius=0&hide_title=true&hide=css,html,procfile" /></p>
 
 <h4 align="center">socials</h4>
 <p align="center">
