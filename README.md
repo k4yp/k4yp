@@ -9,7 +9,6 @@
 <p align="center">
 <img alt="git" src="https://img.shields.io/badge/git-0D1117?logo=git&logoColor=E84E31&style=flat-square">
 <img alt="jupyter" src="https://img.shields.io/badge/jupyter-0D1117?logo=jupyter&logoColor=F37821&style=flat-square">
-<img alt="mongodb" src="https://img.shields.io/badge/mongodb-0D1117?logo=mongodb&logoColor=10AA50&style=flat-square">
 <img alt="latex" src="https://img.shields.io/badge/latex-0D1117?logo=latex&logoColor=008181&style=flat-square">
 <img alt="mysql" src="https://img.shields.io/badge/c++-0D1117?logo=c%2B%2B&logoColor=2b7cba&style=flat-square">
 </p>
