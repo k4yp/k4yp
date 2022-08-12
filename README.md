@@ -1,8 +1,8 @@
 <h4 align="center">technologies</h4>
 <p align="center">
-<img alt="python" src="https://img.shields.io/badge/python-0D1117?logo=python&logoColor=blue&style=flat-square">
-<img alt="rust" src="https://img.shields.io/badge/rust-0D1117?logo=rust&logoColor=F74C00&style=flat-square">
+<img alt="python" src="https://img.shields.io/badge/python-0D1117?logo=python&logoColor=fcd445&style=flat-square">
 <img alt="mysql" src="https://img.shields.io/badge/c++-0D1117?logo=c%2B%2B&logoColor=2b7cba&style=flat-square">
+<img alt="rust" src="https://img.shields.io/badge/rust-0D1117?logo=rust&logoColor=F74C00&style=flat-square">
 <img alt="jupyter" src="https://img.shields.io/badge/jupyter-0D1117?logo=jupyter&logoColor=F37821&style=flat-square">
 <img alt="typescript" src="https://img.shields.io/badge/typescript-0D1117?logo=typescript&logoColor=2d79c7&style=flat-square">
 </p>
