@@ -18,11 +18,13 @@
 <h4 align="center">top langs</h4>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k4yp&layout=compact&theme=dark&bg_color=0D1117&hide_border=true&border_radius=0&hide_title=true&hide=css,html,procfile,javascript" /></p>
 
+<!--
 <h4 align="center">socials</h4>
 <p align="center">
 <a href="https://codeforces.com/profile/keypos"><img alt="codeforces" src="https://img.shields.io/badge/codeforces-0D1117?logo=codeforces&logoColor=B41D22&style=flat-square"></a>
 <a href="https://www.kaggle.com/keypos"><img alt="kaggle" src="https://img.shields.io/badge/kaggle-0D1117?logo=kaggle&logoColor=20BEFF&style=flat-square"></a>
 <a href="https://leetcode.com/keypos/"><img alt="leetcode" src="https://img.shields.io/badge/leetcode-0D1117?logo=leetcode&logoColor=F79C15&style=flat-square"></a>
 </p>
+-->
 
 <h4 align="center">my stuff ↓</h4>
