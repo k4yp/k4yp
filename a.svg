@@ -4,7 +4,7 @@
 height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
         <div style="display: flex; flex-wrap: wrap;">
-        <style>.end{padding-right:16px}span{font-family:monospace}</style>
+        <style>.end{padding-right:16px}span{font-family:monospace;color:#FFFFFF}</style>
     <div style="background-color: rgb(241, 224, 90); width: 43.201982005476594%; height: 10px;"></div><div style="background-color: rgb(53, 114, 165); width: 20.168470465510495%; height: 10px;"></div><div style="background-color: rgb(255, 62, 0); width: 9.181901160516365%; height: 10px;"></div><div style="background-color: rgb(218, 91, 11); width: 7.201982005476594%; height: 10px;"></div><div style="background-color: rgb(61, 97, 23); width: 6.050332507497718%; height: 10px;"></div><div style="background-color: rgb(222, 165, 132); width: 5.5318816012517935%; height: 10px;"></div><div style="background-color: rgb(25, 159, 75); width: 
 3.9306298083192073%; height: 10px;"></div><div style="background-color: rgb(137, 224, 81); width: 1.887077845872995%; height: 10px;"></div><div style="background-color: rgb(0, 0, 128); width: 
 1.266918763854479%; height: 10px;"></div><div style="background-color: rgb(227, 76, 38); width: 
