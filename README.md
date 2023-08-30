@@ -15,8 +15,8 @@
 <img alt="latex" src="https://img.shields.io/badge/latex-0D1117?logo=latex&logoColor=008181&style=flat-square">
 
 </p>
-<h4 align="center">top langs</h4>
-<p align="center"><img src="./a.svg" /></p>
+<h4 align="center">top languages</h4>
+<p align="center"><img src="./card.svg" /></p>
 
 <!--
 <h4 align="center">socials</h4>
